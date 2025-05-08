@@ -1,5 +1,7 @@
 # 💀 Hangman: Programming Languages Edition 🕹️
+
 ![Design Preview](./design.png)
+
 A fun little word-guessing game — but with a twist:  
 Every wrong guess **kills a programming language**!  
 Can you save them all? Or will they all perish under your typos? 😅
@@ -28,4 +30,4 @@ Can you save them all? Or will they all perish under your typos? 😅
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/YacoubDweik/guess-the-word-game.git
